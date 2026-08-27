@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-hd3dsucksthatswhyiuseURP-0.1.0";
 const contentToCache = [
-    "Build/gatchagametesttest3.loader.js",
-    "Build/gatchagametesttest3.framework.js",
-    "Build/gatchagametesttest3.data",
-    "Build/gatchagametesttest3.wasm",
+    "Build/gatchagametesttest4.loader.js",
+    "Build/gatchagametesttest4.framework.js",
+    "Build/gatchagametesttest4.data",
+    "Build/gatchagametesttest4.wasm",
     "TemplateData/style.css"
 
 ];
